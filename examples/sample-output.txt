@@ -1,0 +1,6 @@
+Here is the summary you asked for.
+
+The account owner is jane.doe@example.com and can be reached on 0300-1234567.
+For deployment, the AWS key is AKIAIOSFODNN7EXAMPLE (rotate this immediately).
+The service token is eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIn0.signature.
+Everything else in this summary is safe to publish.
